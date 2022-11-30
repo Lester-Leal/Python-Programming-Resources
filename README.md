@@ -16,5 +16,5 @@ python programname.py
 
 # Contributors
 <a href="https://github.com/Lester-Leal/Python-Programming/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Lester-Leal/Python-Programming" />
+  <img src="https://contrib.rocks/image?repo=Lester-Leal/Python-Programming"/>
 </a>
