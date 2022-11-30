@@ -1,5 +1,5 @@
 # Basic Fast Food POS
-# Author: @artcabrera
+# Author: Jorn Blaedel Garbosa
 
 # Initialize product variables
 productNames = ["Fried Chicken", "Spaghetti", "Hamburger", "French Fries", 
