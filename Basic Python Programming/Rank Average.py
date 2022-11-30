@@ -34,5 +34,5 @@ for i in range(1,len(grades)):
 	ranks.append(sums[j]/counts[i])
 		
 for i in range(len(grades)):
-	print('{0}={1}'.format(grades[i],ranks[i]))
+	print('Person with grade {0} is in Rank {1}'.format(grades[i],ranks[i]))
 
