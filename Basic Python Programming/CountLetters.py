@@ -9,8 +9,15 @@ import string
 # Create a list of all the letters (lowercase & uppercase) using list comprehension
 ALPHABET = [i for i in string.ascii_letters]
 
+# Ask for input
+text = str(input("Type anything: "))
+
 # Create the function
 def count_letters(string:str):
+    """
+    Returns the total amount of letters in a string.
+    """
+
     # Variable for the total amount of letters in string
     total = 0
 
@@ -22,4 +29,4 @@ def count_letters(string:str):
     return total
 
 # Call the function
-print(count_letters("Hello World!"))
+print(count_letters(text))
